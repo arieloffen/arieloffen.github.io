@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student under the supervision of [Julie Delon](https://judelo.github.io/) and [Agnès Desolneux](https://desolneux.perso.math.cnrs.fr/).
+PhD student under the supervision of [Amandine Veber](https://veberamandine.wixsite.com/maths), [Tatiana Giraud](https://www.ideev.universite-paris-saclay.fr/personnes/tgiraud/) and [Sylvain Billiard](https://eep.univ-lille.fr/sylvain-billiard/).
 
 I study Optimal Transport, in particular Generalised Wasserstein Barycentres, the Sliced Wasserstein Distance and GMM-restricted OT. 
 
